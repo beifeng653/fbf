@@ -1,0 +1,15 @@
+
+//"Beifeng专属本地包，由个人整理完成。微信公众号:beifeng653";
+//"本接口中的网络资源均来自于网络互联网大佬的仓库，经本人整合而成，如有冒犯请联系删除",
+
+{  "storeHouse": [
+        {
+            "sourceName": "Beifeng专属本地仓库",
+            "sourceUrl": "clan://localhost/tvbox/bfoo/bfxl.json"
+        },
+        {
+            "sourceName": "Beifeng专属在线仓库",
+            "sourceUrl": "https://beifeng653.github.io/tvbox/bfoo/bfxl.json"
+        }
+    ]
+}

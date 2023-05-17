@@ -1,0 +1,8 @@
+仓库本地地址：clan://localhost/tvbox/bfoo/fbf.json
+直播本地地址：clan://localhost/tvbox/bfoo/v.txt
+直播本地地址：clan://localhost/tvbox/bfoo/vvv.txt
+
+仓库在线地址：https://beifeng653.github.io/tvbox/bfoo/fbf.json
+线路精选地址：https://beifeng653.github.io/tvbox/yyrh/hccx.json
+精选线路：修改yyrh荷城，
+阿里线路：修改yyog阿里豆瓣+ysc阿里
