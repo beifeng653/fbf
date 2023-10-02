@@ -1,6 +1,6 @@
 
-//"Beifeng专属本地包，由个人整理完成。微信公众号:beifeng653";
-//"本接口中的网络资源均来自于网络互联网大佬的仓库，经本人整合而成，如有冒犯请联系删除",
+//"Beifen影视仓库，由本人整合而成。微信公众号:beifeng653";
+//"本仓库中的网络资源均来自于网络互联网大佬的仓库，如有冒犯请联系删除",
 
 {  "storeHouse": [
         {
@@ -8,8 +8,8 @@
             "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/beifeng653/fbf/main/bfln.json"
         } ,
         {
-            "sourceName": "Beifeng本地影视仓库",
-            "sourceUrl": "clan://localhost/tvbox/bfoo/bfln.json"
+            "sourceName": "Beifeng备用影视仓库",
+            "sourceUrl": "https://pan.shangui.cc/f/84PZCo/bfln.json"
         }
     ]
 }
