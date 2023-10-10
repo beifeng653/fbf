@@ -1,27 +1,27 @@
 {"warningText": "Beifeng专属影视仓库。","warningText": "关注公众号:beifeng653，随时更新。",
 "urls":[
-{"name":"｜Beifeng｜运输在线",
+{"name":"🇨🇳 Beifeng｜运输在线",
  "url":"http://vip.weixine.link:88/yun"  
-},
-{"name":"｜Beifeng｜荷城在线",
+}, 
+{"name":"🇨🇳 Beifeng｜荷城在线",
  "url":"http://rihou.vip:88/荷城茶秀"  
 },
-{"name":"｜Beifeng｜业余在线",
+{"name":"🇨🇳 Beifeng｜业余在线",
  "url":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json"  
-}, 
+},
 { "url": "http://饭太硬.top/tv", 
- "name": "｜Beifeng｜硬饭在线" 
+ "name": "🇨🇳 Beifeng｜硬饭在线" 
  },
 { "url": "http://肥猫.love", 
- "name": "｜Beifeng｜肥猫在线" 
+ "name": "🇨🇳 Beifeng｜肥猫在线" 
  }, 
-{"name":"｜Beifeng｜小米在线",
+{"name":"🇨🇳 Beifeng｜小米在线",
  "url":"http://xhww.fun:63/小米/DEMO.json"  
 },
-{"name":"｜Beifeng｜阿里专线",
+{"name":"🇨🇳 Beifeng｜阿里专线",
  "url":"http://weixine.link:33/ali.json"   
  },
-{"name":"｜Beifeng｜阿里巴巴",
+{"name":"🇨🇳 Beifeng｜阿里巴巴",
  "url":"http://weixine.link:33/api.json"  
 }
 ]
