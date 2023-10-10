@@ -8,13 +8,13 @@
 },
 {"name":"🇨🇳 Beifeng｜业余在线",
  "url":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json"  
+}, 
+{"name":"🇨🇳 Beifeng｜硬饭在线",
+ "url":"http://饭太硬.top/tv"  
 },
-{ "url": "http://饭太硬.top/tv", 
- "name": "🇨🇳 Beifeng｜硬饭在线" 
- },
-{ "url": "http://肥猫.love", 
- "name": "🇨🇳 Beifeng｜肥猫在线" 
- }, 
+{"name":"🇨🇳 Beifeng｜肥猫在线",
+ "url":"http://肥猫.love"  
+}, 
 {"name":"🇨🇳 Beifeng｜小米在线",
  "url":"http://xhww.fun:63/小米/DEMO.json"  
 },
