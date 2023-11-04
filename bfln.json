@@ -1,6 +1,6 @@
 {"warningText": "Beifeng专属影视仓库。","warningText": "关注公众号:beifeng653，随时更新。",
 "urls":[
-{"name":" 💫 F.｜运输在线",
+{"name":"💫 F.｜运输在线",
  "url":"http://vip.weixine.link:88/yun"  
 }, 
 {"name":"💫 F.｜荷城在线",
@@ -11,12 +11,15 @@
 },
 {"name":"💫 F.｜肥猫在线",
  "url":"http://肥猫.love"  
-},
+},/*
 {"name":"💫 F.｜开心在线",
  "url":"http://rihou.vip/天天开心"  
 },
 {"name":"💫 F.｜业余在线",
  "url":"http://ftp6587948.host121.Sanfengyun.cn/yydf/yydfjk.json"  
+},*/
+{"name":"💫 F.｜测试专线",
+ "url":"https://jihulab.com/beifeng653/fbf/-/raw/main/bfo/bfo.json"  
 }
 ]
 }
