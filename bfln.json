@@ -4,7 +4,7 @@
  "url":"http://vip.weixine.link:88/yun"  
 }, 
 {"name":"💫 F.｜荷城在线",
- "url":"http://45.125.46.184:8083/荷城茶秀.json"  
+ "url":"http://rihou.vip:88/荷城茶秀"  
 },
 {"name":"💫 F.｜硬饭在线",
  "url":"http://饭太硬.top/tv"  
@@ -13,13 +13,16 @@
  "url":"http://肥猫.love"  
 },/*
 {"name":"💫 F.｜开心在线",
- "url":"http://rihou.vip/天天开心"  
+ "url":"http://rihou.vip:61/天天开心"  
 },
 {"name":"💫 F.｜业余在线",
  "url":"http://ftp6587948.host121.Sanfengyun.cn/yydf/yydfjk.json"  
 },*/
-{"name":"💫 F.｜测试专线",
+{"name":"💫 F.｜阿里专线",
  "url":"https://jihulab.com/beifeng653/fbf/-/raw/main/bfo/bfo.json"  
+},
+{"name":"💫 F.｜阿里本地",
+ "url":"clan://localhost/download/bfo/bfo.json"  
 }
 ]
 }
