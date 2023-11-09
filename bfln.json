@@ -18,10 +18,10 @@
 {"name":"💫 F.｜业余在线",
  "url":"http://ftp6587948.host121.Sanfengyun.cn/yydf/yydfjk.json"  
 },*/
-{"name":"💫 F.｜阿里专线",
+{"name":"💫 F.｜测试专线",
  "url":"https://jihulab.com/beifeng653/fbf/-/raw/main/bfo/bfo.json"  
 },
-{"name":"💫 F.｜阿里本地",
+{"name":"💫 F.｜测试本地",
  "url":"clan://localhost/download/bfo/bfo.json"  
 }
 ]
