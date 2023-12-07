@@ -1,28 +1,35 @@
 {"warningText": "Beifeng专属影视仓库。","warningText": "关注公众号:beifeng653，随时更新。",
 "urls":[
-{"name":"💫 F.｜运输在线",
- "url":"http://vip.weixine.link:88/yun"  
-}, 
-{"name":"💫 F.｜荷城在线",
- "url":"http://rihou.vip:88/荷城茶秀"  
-},
 {"name":"💫 F.｜硬饭在线",
  "url":"http://饭太硬.top/tv"  
 },
 {"name":"💫 F.｜肥猫在线",
  "url":"http://肥猫.live"  
+},  
+{"name":"💫 F.｜采集在线",
+ "url":"https://d.kstore.space/download/5287/bfcj.json"  
+},
+{"name":"💫 F.｜荷城在线",
+ "url":"http://rihou.vip:88/荷城茶秀"  
+}, 
+{"name":"💫 F.｜运输在线",
+ "url":"http://vip.weixine.link:88/svip.json"  
 },/*
+{"name":"💫 F.｜香雅在线",
+ "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"  
+},
 {"name":"💫 F.｜开心在线",
  "url":"http://rihou.vip:61/天天开心"  
 },
 {"name":"💫 F.｜业余在线",
- "url":"http://ftp6587948.host121.Sanfengyun.cn/yydf/yydfjk.json"  
-},*/
+ "url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json"  
+}, */
 {"name":"💫 F.｜测试专线",
- "url":"https://jihulab.com/beifeng653/fbf/-/raw/main/bfo/bfo.json"  
+ "url":"https://d.kstore.space/download/5287/bfwp.json"  
 },
 {"name":"💫 F.｜测试本地",
- "url":"clan://localhost/download/bfo/bfo.json"  
+ "url":"clan://localhost/download/fbf/bfwp.json"  
 }
 ]
 }
+
