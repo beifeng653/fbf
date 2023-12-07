@@ -1,11 +1,16 @@
 {  "storeHouse": [
         {
-            "sourceName": "Beifeng网络影视仓库",
-            "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/beifeng653/fbf/main/bfln.json"
+            "sourceName": "☢️ F.｜影视仓库",
+            "sourceUrl": "https://d.kstore.space/download/5287/bfln.json"
         } ,
         {
-            "sourceName": "Beifeng备用影视仓库",
-            "sourceUrl": "https://pan.shangui.cc/f/84PZCo/bfln.json"
+            "sourceName": "☢️ F.｜影视仓库(备一）",
+            "sourceUrl": "https://ghproxy.net/raw.githubusercontent.com/beifeng653/fbf/main/bfln.json"
+        },
+        {
+            "sourceName": "☢️ F.｜影视仓库(备二）",
+            "sourceUrl": "https://jihulab.com/beifeng653/fbf/-/raw/main/bfln.json"
         }
     ]
 }
+
