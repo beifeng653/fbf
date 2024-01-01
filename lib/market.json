@@ -1,0 +1,92 @@
+[
+    {
+        "name": "推荐",
+        "list": [
+            {
+                "url": "http://111.67.195.139/jpg/打赏业余.jpeg",
+                "icon": "http://111.67.195.139/jpg/打赏业余.jpeg"
+            }
+        ]
+    },
+    {
+        "name": "电视软件",
+        "list": [
+            {
+               "name": "F.影视5.0.16",
+                "url": "https://d.kstore.space/download/5287/bfz/F.影视.0.16.apk",
+                "icon": "https://d.kstore.space/download/5287/bfz/yscy.PNG",
+                "version": "16"
+            }
+            
+        ]
+    },
+    {
+        "name": "蜂蜜影视",
+        "list": [
+            {
+                "name": "電視-java",
+                "url": "https://my.t4tv.hz.cz/apk/release/leanback-java-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v7a"
+            },
+            {
+                "name": "電視-java",
+                "url": "https://my.t4tv.hz.cz/apk/release/leanback-java-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v8a"
+            },
+            {
+                "name": "電視-py",
+                "url": "https://my.t4tv.hz.cz/apk/release/leanback-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v7a（推荐）"
+            },
+            {
+                "name": "電視-py",
+                "url": "https://my.t4tv.hz.cz/apk/release/leanback-python-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v8a"
+            },
+            {
+                "name": "Android-4.x",
+                "url": "https://my.t4tv.hz.cz/apk/kitkat/leanback.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+            },
+            {
+                "name": "手機-java",
+                "url": "https://my.t4tv.hz.cz/apk/release/mobile-java-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v7a"
+            },
+            {
+                "name": "手機-java",
+                "url": "https://my.t4tv.hz.cz/apk/release/mobile-java-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v8a"
+            },
+            {
+                "name": "手機-py",
+                "url": "https://my.t4tv.hz.cz/apk/release/mobile-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v7a"
+            },
+            {
+                "name": "手機-py",
+                "url": "https://my.t4tv.hz.cz/apk/release/mobile-python-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "v8a"
+            }
+        ]
+    },
+    {
+        "name": "本地包",
+        "list": [
+            {
+                "name": "个人精选",
+                "url": "https://d.kstore.space/download/5287/fbf.zip",
+                "icon": "https://d.kstore.space/download/5287/bfz/bao.png",
+                "version": "F.beifeng"
+            }
+        ]
+    }
+]
